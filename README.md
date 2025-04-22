@@ -24,7 +24,3 @@ O desafio principal foi criar um **botão que trocasse o tema de todo o aplicati
    - Remove o tema atual
    - Adiciona o novo dicionário de tema
    - Aplica as mudanças dinamicamente
-
-```csharp
-Application.Current.Resources.MergedDictionaries.Clear();
-Application.Current.Resources.MergedDictionaries.Add(new DarkTheme());
