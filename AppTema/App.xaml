@@ -1,0 +1,49 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTema.App">
+    
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <local:LightTheme xmlns:local="clr-namespace:AppTema.Resources.Styles" />
+            </ResourceDictionary.MergedDictionaries>
+
+
+
+            <Style TargetType="ContentPage">
+                <Setter Property="BackgroundColor" Value="{DynamicResource BackgroundColor}" />
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="TextColor" Value="{DynamicResource TextColor}" />
+                <Setter Property="BackgroundColor" Value="{DynamicResource EntryBackgroundColor}" />
+                <Setter Property="PlaceholderColor" Value="{DynamicResource PlaceholderColor}" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="Margin" Value="10" />
+                <Setter Property="HeightRequest" Value="45" />
+                <Setter Property="Shadow">
+                    <Shadow Brush="Black" Opacity="0.1" Offset="0,2" Radius="4" />
+                </Setter>
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="{DynamicResource TextColor}" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="5,0" />
+            </Style>
+
+            <Style x:Key="BotaoLoginEstilo" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#ae010e" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="CornerRadius" Value="18" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="Margin" Value="10" />
+                <Setter Property="HeightRequest" Value="45" />
+                <Setter Property="Shadow">
+                    <Shadow Brush="Black" Opacity="0.2" Offset="0,4" Radius="6" />
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

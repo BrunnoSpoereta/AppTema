@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brunno\\source\\repos\\AppTema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\pgtemaveiculo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\pgtemaveiculo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\pgpaginainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\pgpaginainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\pgcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\pgcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\pgalterartema.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\pgalterartema.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\resources\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\resources\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\resources\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\resources\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|c:\\users\\brunno\\source\\repos\\apptema\\apptema\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F102B6F-F578-44D5-B636-E156AEB91B10}|AppTema\\AppTema.csproj|solutionrelative:apptema\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioLogado.cs",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\UsuarioLogado.cs",
+              "RelativeDocumentMoniker": "AppTema\\UsuarioLogado.cs",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\UsuarioLogado.cs",
+              "RelativeToolTip": "AppTema\\UsuarioLogado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:23:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pgCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgCadastro.xaml",
+              "RelativeDocumentMoniker": "AppTema\\pgCadastro.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgCadastro.xaml",
+              "RelativeToolTip": "AppTema\\pgCadastro.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T23:23:28.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pgAlterarTema.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgAlterarTema.xaml",
+              "RelativeDocumentMoniker": "AppTema\\pgAlterarTema.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgAlterarTema.xaml",
+              "RelativeToolTip": "AppTema\\pgAlterarTema.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T23:23:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppTema\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\AppShell.xaml",
+              "RelativeToolTip": "AppTema\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T23:23:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "AppTema\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "AppTema\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T23:23:08.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppTema\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppTema\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T23:23:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "AppTema\\Resources\\Styles\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\LightTheme.xaml",
+              "RelativeToolTip": "AppTema\\Resources\\Styles\\LightTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T22:48:55.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "AppTema\\Resources\\Styles\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\Resources\\Styles\\DarkTheme.xaml",
+              "RelativeToolTip": "AppTema\\Resources\\Styles\\DarkTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T22:48:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppTema\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppTema\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:22:14.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pgPaginaInicial.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgPaginaInicial.xaml",
+              "RelativeDocumentMoniker": "AppTema\\pgPaginaInicial.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgPaginaInicial.xaml",
+              "RelativeToolTip": "AppTema\\pgPaginaInicial.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T00:20:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pgTemaVeiculo.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgTemaVeiculo.xaml",
+              "RelativeDocumentMoniker": "AppTema\\pgTemaVeiculo.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\pgTemaVeiculo.xaml",
+              "RelativeToolTip": "AppTema\\pgTemaVeiculo.xaml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T00:04:36.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppTema\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\MainPage.xaml",
+              "RelativeToolTip": "AppTema\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T23:51:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\App.xaml",
+              "RelativeDocumentMoniker": "AppTema\\App.xaml",
+              "ToolTip": "C:\\Users\\Brunno\\source\\repos\\AppTema\\AppTema\\App.xaml",
+              "RelativeToolTip": "AppTema\\App.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T22:40:25.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

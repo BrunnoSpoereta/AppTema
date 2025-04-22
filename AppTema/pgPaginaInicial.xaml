@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTema.pgPaginaInicial"
+             BackgroundColor="{DynamicResource BackgroundColor}">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20"
+                             Spacing="25"
+                             VerticalOptions="CenterAndExpand">
+
+            <Label Text="🏎️ Velocidade e Tecnologia"
+               FontSize="28"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="{DynamicResource TextColor}" />
+
+            <Frame Padding="0"
+                   Margin="0"
+                   CornerRadius="20"
+                   HasShadow="True"
+                   BackgroundColor="Transparent"
+                   HorizontalOptions="Center">
+                <Image x:Name="imgMcQueen"
+                       Source="mcqueen.png"
+                       Aspect="AspectFit"
+                       HeightRequest="300"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"/>
+            </Frame>
+
+            <Label Text="Velocidade, rapidez e informação!"
+                   FontAttributes="Italic"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"
+                   TextColor="{DynamicResource TextColor}"
+                   Margin="10,0"/>
+
+            <Button Text="🎨 Alterar tema"
+                    Style="{StaticResource BotaoLoginEstilo}"
+                    Clicked="btnAlterarTemaClick"/>
+
+            <Button Text="🚗 Tela de veículos"
+                    Style="{StaticResource BotaoLoginEstilo}"
+                    Clicked="btnTelaVeiculoClick"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

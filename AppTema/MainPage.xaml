@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTema.MainPage"
+             BackgroundColor="{DynamicResource BackgroundColor}">
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="20" VerticalOptions="Center">
+
+
+            <Image Source="carros.png" 
+                   HeightRequest="180"
+                   HorizontalOptions="Center" />
+
+            <Entry x:Name="txtUsuario" Placeholder="Usuário" />
+            <Entry x:Name="txtSenha" Placeholder="Senha" IsPassword="True" />
+
+            <Button Text="Entrar"
+                    Style="{StaticResource BotaoLoginEstilo}"
+                    Clicked="btnEntrar_Clicked" />
+            
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Não possui conta? "/>
+                        <Span Text="Registre-se" 
+                  FontAttributes="Bold"
+                  TextDecorations="Underline"/>
+                    </FormattedString>
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="lblRegistrar_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

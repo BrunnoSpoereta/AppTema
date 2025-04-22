@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTema.pgTemaVeiculo"
+             BackgroundColor="{DynamicResource BackgroundColor}">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="25">
+
+
+            <Label Text="Personagens de Carros"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="{DynamicResource TextColor}" />
+
+            <Frame BackgroundColor="{DynamicResource EntryBackgroundColor}"
+                   Padding="15"
+                   HasShadow="True">
+
+                <HorizontalStackLayout Spacing="15">
+                    <Image Source="mcqueen.png"
+                           WidthRequest="120"
+                           HeightRequest="120"
+                           Aspect="AspectFit"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center" />
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="Relâmpago McQueen"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="{DynamicResource TextColor}" />
+                        <Label Text="Um carro de corrida veloz e confiante, protagonista da série. Sempre em busca da vitória e aprendizados."
+                               FontSize="14"
+                               TextColor="{DynamicResource TextColor}" />
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </Frame>
+
+            <Frame BackgroundColor="{DynamicResource EntryBackgroundColor}"
+                   Padding="15"
+                   HasShadow="True">
+
+                <HorizontalStackLayout Spacing="15">
+                    <Image Source="mate.jfif"
+                           WidthRequest="120"
+                           HeightRequest="120"
+                           Aspect="AspectFit"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center" />
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="Mate"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="{DynamicResource TextColor}" />
+                        <Label Text="O guincho enferrujado e engraçado, melhor amigo de McQueen. Leal, atrapalhado e carismático."
+                               FontSize="14"
+                               TextColor="{DynamicResource TextColor}" />
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </Frame>
+            
+            <Frame BackgroundColor="{DynamicResource EntryBackgroundColor}"
+                   Padding="15"
+                   HasShadow="True">
+
+                <HorizontalStackLayout Spacing="15">
+                    <Image Source="sally.jfif"
+                           WidthRequest="120"
+                           HeightRequest="120"
+                           Aspect="AspectFit"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center" />
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="Sally Carrera"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="{DynamicResource TextColor}" />
+                        <Label Text="Advogada inteligente e apaixonada por Radiator Springs. Interessa-se por McQueen e ama sua cidade."
+                               FontSize="14"
+                               TextColor="{DynamicResource TextColor}" />
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </Frame>
+
+            <Frame BackgroundColor="{DynamicResource EntryBackgroundColor}"
+                   Padding="15"
+                   HasShadow="True">
+
+                <HorizontalStackLayout Spacing="15">
+                    <Image Source="mack.jfif"
+                           WidthRequest="120"
+                           HeightRequest="120"
+                           Aspect="AspectFit"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center" />
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="Mack"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="{DynamicResource TextColor}" />
+                        <Label Text="O fiel caminhão que transporta McQueen para as corridas. Amigável, leal e às vezes um pouco sonolento!"
+                               FontSize="14"
+                               TextColor="{DynamicResource TextColor}" />
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </Frame>
+
+            <Frame BackgroundColor="{DynamicResource EntryBackgroundColor}"
+                   Padding="15"
+                   HasShadow="True">
+
+                <HorizontalStackLayout Spacing="15">
+                    <Image Source="chickhicks.jfif"
+                           WidthRequest="120"
+                           HeightRequest="120"
+                           Aspect="AspectFit"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center" />
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="Chick Hicks"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="{DynamicResource TextColor}" />
+                        <Label Text="O grande rival de McQueen. Arrogante, competitivo e conhecido pelo bordão 'KA-CHIGGA!'"
+                               FontSize="14"
+                               TextColor="{DynamicResource TextColor}" />
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
